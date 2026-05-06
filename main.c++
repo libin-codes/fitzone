@@ -475,3 +475,9 @@ public:
     }
 };
 
+
+int main() {
+    GymManagementSystem app("FitZone Gym");
+    app.run();
+    return 0;
+}
